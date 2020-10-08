@@ -1,5 +1,8 @@
 # Release Notes
 
+### 1.3.33 (October 8th, 2020)
+- bump iOS uxkit to 1.3.6 to support Carthage with Xcode 12
+
 ### 1.3.32 (June 23rd, 2020)
 - Android & iOS, integrate 2.4.0
 
